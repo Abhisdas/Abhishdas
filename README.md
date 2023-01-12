@@ -10,7 +10,16 @@ A passionate Software Engineer from India
 *   🌍  I'm based in Forbesganj , Bihar.
 *   ✉️  You can contact me at [dashabhish@gmail.com](mailto:dashabhish@gmail.com)
 *   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css
-*   ⚡  I can solve a Rubik's Cube in under a minute### Skills 
+*   ⚡  I can solve a Rubik's Cube in under a minute
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhishek-das-b55156225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Das" height="30" width="40" /></a>
+<a href="https://instagram.com/__abhis.das__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__abhis.das__" height="30" width="40" /></a>
+<a href="https://www.facebook.com/__meabhishek.dash__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__meabhishek.dash__" height="30" width="40" /></a>
+</p>
+
+<b>Languages and Tools:</b>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
