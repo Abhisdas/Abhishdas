@@ -10,8 +10,8 @@ A passionate Software Engineer from India
 
 *   🌍  I'm based in Forbesganj , Bihar.
 *   ✉️  You can contact me at [dashabhish@gmail.com](mailto:dashabhish@gmail.com)
-*   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css
-*   ⚡  I can solve a Rubik's Cube in under a minute
+*   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css.
+*   ⚡  I can solve a Rubik's Cube in under a minute.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
