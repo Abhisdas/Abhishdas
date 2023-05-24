@@ -22,6 +22,12 @@ Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="http
   
   
   
+  
+  ![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2041%20mins-orange)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-Thousands%20lines%20of%20code-black)
+  
+  
 A passionate Software Engineer from India
 
   - :octocat: [My Resume](https://drive.google.com/file/d/10nwN7fyAja3_BP-duQaDNQ3eidKoNK06/view?usp=drive_link)
@@ -30,6 +36,9 @@ A passionate Software Engineer from India
 *   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css.
 *   ⚡  I can solve a Rubik's Cube in under a minute.
 
+
+  
+  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
