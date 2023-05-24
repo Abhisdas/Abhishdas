@@ -20,9 +20,6 @@ Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="http
   <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   
   
-  
-  
-  
   ![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2041%20mins-orange)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20To-Thousands%20of%20lines%20of%20code-black)
@@ -71,8 +68,9 @@ A passionate Software Engineer from India
 
 <a href="http://www.github.com/Abhishdas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishdas&stroke=ffffff&background=831843&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>          
 
+## 🏆 GitHub Trophies
 
-
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishdas&theme=onedark)](https://github.com/Abhishdas/github-profile-trophy)
 
 
 
