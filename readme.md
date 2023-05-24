@@ -69,7 +69,7 @@ A passionate Software Engineer from India
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 <b>My GitHub Stats:</b>   
-<img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
+<img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishdas&theme=graywhite&show_icons=true) 
 
