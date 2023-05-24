@@ -11,8 +11,9 @@ Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="http
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisdas)](https://www.linkedin.com/in/abhisdas) [![Gmail Badge](https://img.shields.io/badge/-dashabhish@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashabhish@gmail.com)](mailto:dashabhish@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Abhishek%20Kumar%20DAS-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)](https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)
  [![instagram Badge](https://img.shields.io/badge/-Abhish%20Das-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/abhis.das)](https://www.instagram.com/abhis.das) [![Hackerrank Badge](https://img.shields.io/badge/-Dash%20Abhish-black?style=flat-square&logo=Hackerrank&link=https://www.hackerrank.com/dashabhish?hr_r=1)](https://www.hackerrank.com/dashabhish?hr_r=1) [![GeeksForGeeks Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=GeeksForGeeks&link=https://auth.geeksforgeeks.org/user/abhisdas)](https://auth.geeksforgeeks.org/user/abhisdas)  [![Leetcode Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/Abhisdas/)](https://leetcode.com/Abhisdas/)
- 
- 
+ [![Twitter Follow](https://img.shields.io/twitter/follow/das_Abhish?label=Follow)](https://twitter.com/intent/follow?screen_name=das_Abhish)
+ ![GitHub followers](https://img.shields.io/github/followers/Abhishdas?label=Follow&style=social)
+ [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://abhishdas.github.io/TXON_04/)](https://abhishdas.github.io/TXON_04/)
 
 
 
