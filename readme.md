@@ -119,19 +119,18 @@ A passionate Software Engineer from India
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Abhishdas/OS_LAB" title="OS_LAB"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=OS_LAB&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Abhishdas/CodeClause_Brain_Tumor_Detection" title="CodeClause_Brain_Tumor_Detection"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=CodeClause_Brain_Tumor_Detection&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Abhishdas/DSA-LAB" title="DSA-LAB"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=DSA-LAB&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Abhishdas/CodeClause_Gender_Age_Detection" title="CodeClause_Gender_Age_Detection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=CodeClause_Gender_Age_Detection&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Abhishdas/TXON_02" title="TXON_02"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=TXON_02&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Abhishdas/Alpha-Batch" title="Alpha-Batch"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=Alpha-Batch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Abhishdas/Abhishdas" title="Abhishdas"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=Abhishdas&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Abhishdas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
 
 
 
