@@ -24,7 +24,7 @@ Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="http
 
 <p align="left"> <img alt="Stars" src="https://img.shields.io/github/stars/Abhishdas?tab=stars?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Abhishdas/Abhishdas?style=flat-square&labelColor=343b41"/></p>
 
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Abhishdas/Abhishdas)
 
 
   
@@ -70,7 +70,7 @@ A passionate Software Engineer from India
 </p>
 <b>My GitHub Stats:</b>                    
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishdas&theme=graywhite&show_icons=true) <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishdas&theme=graywhite&show_icons=true) 
 
 
 <a href="http://www.github.com/Abhishdas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishdas&stroke=ffffff&background=831843&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>          
@@ -81,5 +81,5 @@ A passionate Software Engineer from India
 
 
 
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
 
