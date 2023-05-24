@@ -8,7 +8,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align="right" src="https://img.shields.io/endpoint?color=darkred&label=PROFILE%20VIEWS&logo=red&logoColor=yellow&url=https%3A%2F%2Fhits.dwyl.com%2FAbhishdas%2FAbhishdas.json" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisdas)](https://www.linkedin.com/in/abhisdas) [![Gmail Badge](https://img.shields.io/badge/-dashabhish@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashabhish@gmail.com)](mailto:dashabhish@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Abhishek%20Kumar%20DAS-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)](https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)
-<p align="left"> 
+ [![instagram Badge](https://img.shields.io/badge/-Abhish%20Das-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/abhis.das)](https://www.instagram.com/abhis.das) [![Hackerrank Badge](https://img.shields.io/badge/-Dash%20Abhish-black?style=flat-square&logo=Hackerrank&link=https://www.hackerrank.com/dashabhish?hr_r=1)](https://www.hackerrank.com/dashabhish?hr_r=1) [![GeeksForGeeks Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=GeeksForGeeks&link=https://auth.geeksforgeeks.org/user/abhisdas)](https://auth.geeksforgeeks.org/user/abhisdas)  [![Leetcode Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/Abhisdas/)](https://leetcode.com/Abhisdas/)
+ 
+ 
+
+
 
   <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   
