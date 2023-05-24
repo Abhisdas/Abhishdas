@@ -1,10 +1,10 @@
 ![logo](https://github.com/Abhishdas/Abhishdas/blob/main/Abhi.png)
 
 
-Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">                   
+Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">                   
 ====================================================================================================================================
 
-2nd Year Computer Science Student
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  2nd Year Computer Science Student  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 --------------------
 
 <img align="right" src="https://img.shields.io/endpoint?color=darkred&label=PROFILE%20VIEWS&logo=red&logoColor=yellow&url=https%3A%2F%2Fhits.dwyl.com%2FAbhishdas%2FAbhishdas.json"/>
@@ -19,8 +19,21 @@ Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="http
 
 [![](https://img.shields.io/badge/-@Abhishdas-%23181717?style=flat-square&logo=github)](https://github.com/Abhishdas)
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
+![](https://img.shields.io/github/stars/Abhishdas?color=fefb7b&logo=Undertale)
+[![](https://img.shields.io/github/followers/Abhishdas?color=27da6b&logo=Handshake)](https://github.com/Abhishdas?tab=followers)
 
 
+ </a>
+  <a href="https://github.com/Abhishdas/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/das_Abhish?style=social)](https://twitter.com/das_Abhish)
 
 [![GitHub followers](https://img.shields.io/github/followers/Abhishdas?logo=GitHub&style=for-the-badge)](https://github.com/Abhishdas) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/Abhishdas?logo=github&style=for-the-badge)](https://github.com/Abhishdas) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/Abhishdas?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Abhishdas)
 
@@ -34,9 +47,20 @@ Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="http
 
 
 
+
 <p align="left"> <img alt="Stars" src="https://img.shields.io/github/stars/Abhishdas?tab=stars?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Abhishdas/Abhishdas?style=flat-square&labelColor=343b41"/></p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Abhishdas/Abhishdas)
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Abhishdas/count.svg" />
+</p>
+
+
 
 
   
@@ -88,11 +112,50 @@ A passionate Software Engineer from India
 
 <a href="http://www.github.com/Abhishdas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishdas&stroke=ffffff&background=831843&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>          
 
+## ⭐Stargazers
+
+[![Stargazers repo roster for @Abhishdas/Abhishdas](https://reporoster.com/stars/Abhishdas/Abhishdas)](https://github.com/Abhishdas/Abhishdas/stargazers)
+
+
 ## 🏆 GitHub Trophies
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishdas&theme=onedark)](https://github.com/Abhishdas/github-profile-trophy)
 
 
 
+
+
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Abhishdas/JAVA-LAB" title="JAVA-LAB"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=JAVA-LAB&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Abhishdas/https://github.com/Abhishdas/DBMS_LAB-MY-SQL-" title="https://github.com/Abhishdas/DBMS_LAB-MY-SQL-"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=DBMS_LAB-MY-SQL-&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Abhishdas/OS_LAB" title="OS_LAB"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=OS_LAB&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Abhishdas/Commits" title="Commits"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=Commits&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Abhishdas/Final-Project-FRT" title="Final-Project-FRT"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=Final-Project-FRT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Abhishdas/TXON_02" title="TXON_02"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishdas&repo=TXON_02&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Abhishdas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
+
+
+
+
+
+
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
+
 
