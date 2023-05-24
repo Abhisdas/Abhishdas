@@ -70,7 +70,7 @@ A passionate Software Engineer from India
 </p>
 <b>My GitHub Stats:</b>                    
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishdas&theme=graywhite&show_icons=true) <img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishdas&theme=graywhite&show_icons=true) <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
 
 
 <a href="http://www.github.com/Abhishdas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishdas&stroke=ffffff&background=831843&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>          
