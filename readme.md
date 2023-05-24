@@ -8,7 +8,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 --------------------
 ![status](https://img.shields.io/badge/STATUS-UP-brightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/github/stars/Abhishdas?color=fefb7b&logo=Undertale)
 [![](https://img.shields.io/github/followers/Abhishdas?color=27da6b&logo=Handshake)](https://github.com/Abhishdas?tab=followers)   </a>
-  <a href="https://github.com/Abhishdas/awesome-github-profile-readme">
+  <a href="https://github.com/Abhishdas/Abhishdas">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>  [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhisdas/)
 
