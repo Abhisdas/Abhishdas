@@ -26,7 +26,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 
 
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
 
 
 
@@ -58,7 +58,7 @@ A passionate Software Engineer from India
 *   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css.
 *   ⚡  I can solve a Rubik's Cube in under a minute.
 
-
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
     
   ![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2041%20mins-orange)
