@@ -13,16 +13,13 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
   </a>  [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhisdas/)
 
 
-
 <img align="right" src="https://img.shields.io/endpoint?color=darkred&label=PROFILE%20VIEWS&logo=red&logoColor=yellow&url=https%3A%2F%2Fhits.dwyl.com%2FAbhishdas%2FAbhishdas.json"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisdas)](https://www.linkedin.com/in/abhisdas) [![Gmail Badge](https://img.shields.io/badge/-dashabhish@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashabhish@gmail.com)](mailto:dashabhish@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Abhishek%20Kumar%20DAS-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)](https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)
  [![instagram Badge](https://img.shields.io/badge/-Abhish%20Das-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/abhis.das)](https://www.instagram.com/abhis.das) [![Hackerrank Badge](https://img.shields.io/badge/-Dash%20Abhish-black?style=flat-square&logo=Hackerrank&link=https://www.hackerrank.com/dashabhish?hr_r=1)](https://www.hackerrank.com/dashabhish?hr_r=1) [![GeeksForGeeks Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=GeeksForGeeks&link=https://auth.geeksforgeeks.org/user/abhisdas)](https://auth.geeksforgeeks.org/user/abhisdas)  [![Leetcode Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/Abhisdas/)](https://leetcode.com/Abhisdas/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/das_Abhish?style=social)](https://twitter.com/das_Abhish)
 [![](https://img.shields.io/badge/-@Abhishdas-%23181717?style=flat-square&logo=github)](https://github.com/Abhishdas)
-
 <img align="right" src="https://img.shields.io/github/last-commit/Abhishdas/Abhishdas"/>
-
  [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://abhishdas.github.io/TXON_04/)](https://abhishdas.github.io/TXON_04/)
  [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/meabhishek.dash "Connect on Facebook") [![Telegram Badge](https://img.shields.io/badge/-@Abhisdas-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Abhisdas "Contact on Telegram")  <img alt="Forks" src="https://img.shields.io/github/forks/Abhishdas/Abhishdas?style=flat-square&labelColor=343b41"/>
 
