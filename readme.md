@@ -1,5 +1,7 @@
 ![logo](https://github.com/Abhishdas/Abhishdas/blob/main/Abhi.png)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Abhishek Kr. Das                    
+
+
+Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">                   
 ====================================================================================================================================
 
 2nd Year Computer Science Student
