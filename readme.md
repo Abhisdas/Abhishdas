@@ -6,12 +6,19 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  2nd Year Computer Science Student  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 --------------------
+![status](https://img.shields.io/badge/STATUS-UP-brightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/github/stars/Abhishdas?color=fefb7b&logo=Undertale)
+[![](https://img.shields.io/github/followers/Abhishdas?color=27da6b&logo=Handshake)](https://github.com/Abhishdas?tab=followers)   </a>
+  <a href="https://github.com/Abhishdas/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>  [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhisdas/)
+
+
 
 <img align="right" src="https://img.shields.io/endpoint?color=darkred&label=PROFILE%20VIEWS&logo=red&logoColor=yellow&url=https%3A%2F%2Fhits.dwyl.com%2FAbhishdas%2FAbhishdas.json"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisdas)](https://www.linkedin.com/in/abhisdas) [![Gmail Badge](https://img.shields.io/badge/-dashabhish@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashabhish@gmail.com)](mailto:dashabhish@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Abhishek%20Kumar%20DAS-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)](https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)
  [![instagram Badge](https://img.shields.io/badge/-Abhish%20Das-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/abhis.das)](https://www.instagram.com/abhis.das) [![Hackerrank Badge](https://img.shields.io/badge/-Dash%20Abhish-black?style=flat-square&logo=Hackerrank&link=https://www.hackerrank.com/dashabhish?hr_r=1)](https://www.hackerrank.com/dashabhish?hr_r=1) [![GeeksForGeeks Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=GeeksForGeeks&link=https://auth.geeksforgeeks.org/user/abhisdas)](https://auth.geeksforgeeks.org/user/abhisdas)  [![Leetcode Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/Abhisdas/)](https://leetcode.com/Abhisdas/)
- [![Twitter Follow](https://img.shields.io/twitter/follow/das_Abhish?label=Follow)](https://twitter.com/intent/follow?screen_name=das_Abhish)
+[![Twitter Follow](https://img.shields.io/twitter/follow/das_Abhish?style=social)](https://twitter.com/das_Abhish)
  ![GitHub followers](https://img.shields.io/github/followers/Abhishdas?label=Follow&style=social)
  [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://abhishdas.github.io/TXON_04/)](https://abhishdas.github.io/TXON_04/) [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/meabhishek.dash "Connect on Facebook") [![Telegram Badge](https://img.shields.io/badge/-@Abhisdas-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Abhisdas "Contact on Telegram")
 
@@ -22,22 +29,16 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-![](https://img.shields.io/github/stars/Abhishdas?color=fefb7b&logo=Undertale)
-[![](https://img.shields.io/github/followers/Abhishdas?color=27da6b&logo=Handshake)](https://github.com/Abhishdas?tab=followers)
-
-
- </a>
-  <a href="https://github.com/Abhishdas/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/das_Abhish?style=social)](https://twitter.com/das_Abhish)
 
-[![GitHub followers](https://img.shields.io/github/followers/Abhishdas?logo=GitHub&style=for-the-badge)](https://github.com/Abhishdas) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/Abhishdas?logo=github&style=for-the-badge)](https://github.com/Abhishdas) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/Abhishdas?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Abhishdas)
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhisdas/)
+
+
+
+ [![GitHub Sponsors](https://img.shields.io/github/sponsors/Abhishdas?color=BF4B8A1&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Abhishdas)
+
 
 
   <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -52,7 +53,6 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Abhishdas/Abhishdas)
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
 
 <p align="center"> 
@@ -148,9 +148,6 @@ A passionate Software Engineer from India
 
 
 
-
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
 
