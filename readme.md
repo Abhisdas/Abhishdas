@@ -19,9 +19,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
  [![instagram Badge](https://img.shields.io/badge/-Abhish%20Das-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/abhis.das)](https://www.instagram.com/abhis.das) [![Hackerrank Badge](https://img.shields.io/badge/-Dash%20Abhish-black?style=flat-square&logo=Hackerrank&link=https://www.hackerrank.com/dashabhish?hr_r=1)](https://www.hackerrank.com/dashabhish?hr_r=1) [![GeeksForGeeks Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=GeeksForGeeks&link=https://auth.geeksforgeeks.org/user/abhisdas)](https://auth.geeksforgeeks.org/user/abhisdas)  [![Leetcode Badge](https://img.shields.io/badge/-Abhis%20das-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/Abhisdas/)](https://leetcode.com/Abhisdas/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/das_Abhish?style=social)](https://twitter.com/das_Abhish)
 [![](https://img.shields.io/badge/-@Abhishdas-%23181717?style=flat-square&logo=github)](https://github.com/Abhishdas)
-<img align="right" src="https://img.shields.io/github/last-commit/Abhishdas/Abhishdas"/>
-
- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://abhishdas.github.io/TXON_04/)](https://abhishdas.github.io/TXON_04/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://abhishdas.github.io/TXON_04/)](https://abhishdas.github.io/TXON_04/)
  [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/meabhishek.dash "Connect on Facebook") [![Telegram Badge](https://img.shields.io/badge/-@Abhisdas-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Abhisdas "Contact on Telegram")  <img alt="Forks" src="https://img.shields.io/github/forks/Abhishdas/Abhishdas?style=flat-square&labelColor=343b41"/>
 
 
@@ -33,7 +31,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
   <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   
 
-
+<img align="left" src="https://img.shields.io/github/last-commit/Abhishdas/Abhishdas"/>
 
 
 
