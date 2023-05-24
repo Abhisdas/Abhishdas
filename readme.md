@@ -25,7 +25,7 @@ Hey, [Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="http
   
   ![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2041%20mins-orange)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-Thousands%20lines%20of%20code-black)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20To-Thousands%20of%20lines%20of%20code-black)
   
   
 A passionate Software Engineer from India
