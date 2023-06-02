@@ -80,7 +80,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
   
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="350" height="auto" />
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-das-b55156225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Das" height="30" width="40" /></a>
 <a href="https://instagram.com/__abhis.das__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__abhis.das__" height="30" width="40" /></a>
