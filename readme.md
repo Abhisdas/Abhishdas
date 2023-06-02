@@ -59,6 +59,25 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
   ![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2041%20mins-orange)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20To-Thousands%20of%20lines%20of%20code-black)
+
+
+
+### 📮Latest Posts
+
+<!--POST-LIST:START -->
+- [ 𝐅𝐥𝐢𝐩𝐫 𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧 𝟏𝟕](https://www.linkedin.com/posts/abhisdas_teamwork-webdevelopment-hackathon-activity-7067010166155603968-dU9U?utm_source=share&utm_medium=member_desktop)
+- [𝐂𝐚𝐦𝐩𝐮𝐬 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦!](https://www.linkedin.com/posts/abhisdas_everyone-devtown-campusambassador-activity-7056012966332141568-ELhw?utm_source=share&utm_medium=member_desktop)
+- [𝟳-𝗱𝗮𝘆 𝗕𝗼𝗼𝘁𝗰𝗮𝗺𝗽 𝗼𝗻 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 & 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀](https://www.linkedin.com/posts/abhisdas_javascript-react-google-activity-7055660903840563200-C42B?utm_source=share&utm_medium=member_desktop)
+- [𝗠𝗶𝗻𝗶𝘀𝘁𝗿𝘆 𝗼𝗳 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗻𝗶𝗰𝘀 𝗮𝗻𝗱 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆](https://www.linkedin.com/posts/abhisdas_stay-safe-online-campaign-activity-7045398111296385026-BvPa?utm_source=share&utm_medium=member_desktop)
+- [𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐨𝐧 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬.](https://www.linkedin.com/posts/abhisdas_training-growth-learning-activity-7038923753019371520-x4OM?utm_source=share&utm_medium=member_desktop)
+<!--POST-LIST:END -->
+
+➡️ [more posts...](https://www.linkedin.com/in/abhisdas/)
+
+
+
+
+
   
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="350" height="auto" />
 <h3 align="left">Connect with me:</h3>
