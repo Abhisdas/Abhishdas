@@ -37,7 +37,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 
 
   
-A passionate Software Engineer from India
+A passionate Software Engineer from India <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
   - :octocat: [My Resume](https://drive.google.com/file/d/10nwN7fyAja3_BP-duQaDNQ3eidKoNK06/view?usp=drive_link)
 *   🌍  I'm based in Forbesganj , Bihar.
