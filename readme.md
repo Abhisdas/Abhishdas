@@ -87,7 +87,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 <a href="https://www.facebook.com/__meabhishek.dash__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__meabhishek.dash__" height="30" width="40" /></a>
 </p>
 
-<b>Languages and Tools:</b>
+## 🈂️Languages and Tools:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -104,7 +104,9 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-<b>My GitHub Stats:</b>   
+
+
+## 📈 My GitHub Stats:   
 <img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishdas&theme=graywhite&show_icons=true) 
