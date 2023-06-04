@@ -40,7 +40,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 
 
 
-![snake gif](https://github.com/Abhishdas/Abhishdas/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
@@ -124,6 +124,10 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Abhishdas&theme=onedark)](https://github.com/Abhishdas/github-profile-trophy)
 
+
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/NarayanBavisetti/NarayanBavisetti/blob/output/github-contribution-grid-snake.gif)
 
 
 
