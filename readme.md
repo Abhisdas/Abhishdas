@@ -127,7 +127,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/NarayanBavisetti/NarayanBavisetti/blob/output/github-contribution-grid-snake.gif)
+![github-contribution-grid-snake](https://github.com/Abhishdas/Abhishdas/assets/110592131/23a702dd-b772-4a98-bd0e-4a7e17826c60)
 
 
 
