@@ -56,7 +56,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
   - :octocat: [My Resume](https://drive.google.com/file/d/10nwN7fyAja3_BP-duQaDNQ3eidKoNK06/view?usp=drive_link)
 *   🌍  I'm based in Forbesganj , Bihar.
-* ✉️  You can contact me at [dashabhish@gmail.com](mailto:dashabhish@gmail.com)
+*   ✉️  You can contact me at [dashabhish@gmail.com](mailto:dashabhish@gmail.com)
 *   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css.
 *   ⚡  I can solve a Rubik's Cube in under a minute.
 
