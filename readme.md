@@ -82,11 +82,9 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
 ➡️ [more posts...](https://www.linkedin.com/in/abhisdas/)
 
+<img src="https://stats.quine.sh/Abhisdas/github?theme=dark" width="300" float="right">
 
-[![Abhisdas's GitHub | Stats](https://stats.quine.sh/Abhisdas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhisdas)
-
-
-[![Abhisdas's GitHub | Languages Over Time](https://stats.quine.sh/Abhisdas/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhisdas)
+<img align="right" src="https://stats.quine.sh/Abhisdas/languages-over-time?theme=dark" width="300">
 
   
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="350" height="auto" />
