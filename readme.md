@@ -13,7 +13,6 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
   </a>  [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhisdas/)
 
 
-<a href="https://www.codechef.com/users/abhisdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhisdas" height="30" width="40" /></a>
 
 
 <img align="right" src="https://img.shields.io/endpoint?color=darkred&label=PROFILE%20VIEWS&logo=red&logoColor=yellow&url=https%3A%2F%2Fhits.dwyl.com%2FAbhishdas%2FAbhishdas.json"/>
@@ -24,6 +23,8 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 [![](https://img.shields.io/badge/-@Abhishdas-%23181717?style=flat-square&logo=github)](https://github.com/Abhishdas)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://abhishdas.github.io/TXON_04/)](https://abhishdas.github.io/TXON_04/)
  [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/meabhishek.dash "Connect on Facebook") [![Telegram Badge](https://img.shields.io/badge/-@Abhisdas-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Abhisdas "Contact on Telegram")  <img alt="Forks" src="https://img.shields.io/github/forks/Abhishdas/Abhishdas?style=flat-square&labelColor=343b41"/>
+
+<a href="https://www.codechef.com/users/abhisdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhisdas" height="30" width="40" /></a>
 
 
 
@@ -55,8 +56,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
   - :octocat: [My Resume](https://drive.google.com/file/d/10nwN7fyAja3_BP-duQaDNQ3eidKoNK06/view?usp=drive_link)
 *   🌍  I'm based in Forbesganj , Bihar.
-* <a href="https://www.codechef.com/users/abhisdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhisdas" height="30" width="40" /></a> CodeChef Profile 
-*   ✉️  You can contact me at [dashabhish@gmail.com](mailto:dashabhish@gmail.com)
+* ✉️  You can contact me at [dashabhish@gmail.com](mailto:dashabhish@gmail.com)
 *   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css.
 *   ⚡  I can solve a Rubik's Cube in under a minute.
 
@@ -94,7 +94,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 <a href="https://www.facebook.com/__meabhishek.dash__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="__meabhishek.dash__" height="30" width="40" /></a>
 </p>
 
-## 🈂️Languages and Tools:
+## 🈂️Languages and Tools:<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="24">
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
