@@ -31,7 +31,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
  [![GitHub Sponsors](https://img.shields.io/github/sponsors/Abhishdas?color=BF4B8A1&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Abhishdas)
  
 
-
+[![Abhisdas's GitHub | Stats](https://stats.quine.sh/Abhisdas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhisdas)
  
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Abhishdas/Final-Project-FRT.svg?colorB=RebeccaPurple&label=Code%20Size&style=popout)
 
