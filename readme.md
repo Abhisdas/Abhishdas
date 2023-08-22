@@ -68,7 +68,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20To-Thousands%20of%20lines%20of%20code-black)
 
-
+<img align="right" src="https://stats.quine.sh/Abhisdas/github?theme=dark" width="260">
 
 ### 📮Latest Posts
 
@@ -82,9 +82,14 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
 ➡️ [more posts...](https://www.linkedin.com/in/abhisdas/)
 
-<img src="https://stats.quine.sh/Abhisdas/github?theme=dark" width="300" float="right">
 
-<img align="right" src="https://stats.quine.sh/Abhisdas/languages-over-time?theme=dark" width="300">
+
+
+
+
+
+
+
 
   
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="350" height="auto" />
@@ -114,13 +119,18 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 </p>
 
 
+
 ## 📈 My GitHub Stats:   
 <img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishdas&layout=compact&langs_count=8"/>
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishdas&theme=graywhite&show_icons=true) 
 
 
+<img src="https://stats.quine.sh/Abhisdas/languages-over-time?theme=dark" width="350">
+
 <a href="http://www.github.com/Abhishdas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishdas&stroke=ffffff&background=831843&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>          
+
+
 
 ## ⭐Stargazers
 
