@@ -26,6 +26,8 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
 
  [![GitHub Sponsors](https://img.shields.io/github/sponsors/Abhishdas?color=BF4B8A1&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Abhishdas)
  
+
+<a href="https://www.codechef.com/users/abhisdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhisdas" height="30" width="40" /></a>
  
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Abhishdas/Final-Project-FRT.svg?colorB=RebeccaPurple&label=Code%20Size&style=popout)
 
