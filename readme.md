@@ -13,6 +13,9 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
   </a>  [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhisdas&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhisdas/)
 
 
+<a href="https://www.codechef.com/users/abhisdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhisdas" height="30" width="40" /></a>
+
+
 <img align="right" src="https://img.shields.io/endpoint?color=darkred&label=PROFILE%20VIEWS&logo=red&logoColor=yellow&url=https%3A%2F%2Fhits.dwyl.com%2FAbhishdas%2FAbhishdas.json"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisdas)](https://www.linkedin.com/in/abhisdas) [![Gmail Badge](https://img.shields.io/badge/-dashabhish@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dashabhish@gmail.com)](mailto:dashabhish@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Abhishek%20Kumar%20DAS-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)](https://www.youtube.com/channel/UCRZLcQIvFES7Mvz3uFOvHjg)
@@ -27,7 +30,7 @@ Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="h
  [![GitHub Sponsors](https://img.shields.io/github/sponsors/Abhishdas?color=BF4B8A1&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Abhishdas)
  
 
-<a href="https://www.codechef.com/users/abhisdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhisdas" height="30" width="40" /></a>
+
  
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Abhishdas/Final-Project-FRT.svg?colorB=RebeccaPurple&label=Code%20Size&style=popout)
 
@@ -52,6 +55,7 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 
   - :octocat: [My Resume](https://drive.google.com/file/d/10nwN7fyAja3_BP-duQaDNQ3eidKoNK06/view?usp=drive_link)
 *   🌍  I'm based in Forbesganj , Bihar.
+* <a href="https://www.codechef.com/users/abhisdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhisdas" height="30" width="40" /></a> CodeChef Profile 
 *   ✉️  You can contact me at [dashabhish@gmail.com](mailto:dashabhish@gmail.com)
 *   🧠  I'm learning C , C++ , Python , Java , Reactjs , Javascript , Html , Css.
 *   ⚡  I can solve a Rubik's Cube in under a minute.
