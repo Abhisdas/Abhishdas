@@ -69,6 +69,9 @@ A passionate Software Engineer from India <img src="https://github.com/TheDudeTh
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20To-Thousands%20of%20lines%20of%20code-black)
 
 <img align="right" src="https://stats.quine.sh/Abhisdas/github?theme=dark" width="260">
+<img align="right" src="https://stats.quine.sh/Abhisdas/dependencies?theme=dark" width="260">
+
+
 
 ### 📮Latest Posts
 
