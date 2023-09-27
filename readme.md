@@ -4,7 +4,7 @@
 Hey,🙎[Abhishek here!](https://www.linkedin.com/in/abhisdas) ![]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">                   
 ====================================================================================================================================
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  2nd Year Computer Science Student   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="65" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  3rd Year Computer Science Student   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="65" />
 --------------------
 ![status](https://img.shields.io/badge/STATUS-UP-brightgreen) ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/github/stars/Abhishdas?color=fefb7b&logo=Undertale)
 [![](https://img.shields.io/github/followers/Abhishdas?color=27da6b&logo=Handshake)](https://github.com/Abhishdas?tab=followers)   </a>
